@@ -1,0 +1,29 @@
+{
+  "name": "terra-theme",
+  "displayName": "Terra Theme (Alpha)",
+  "publisher": "NikolausBrunner",
+  "description": "",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terra-theme/vscode"
+  },
+  "maintainers": [
+    "Nikolaus Brunner <nikolaus.brunner@protonmail.ch>"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Terra - Spring - Night (Alpha)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Terra - Spring - Night.json"
+      }
+    ]
+  }
+}
