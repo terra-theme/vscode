@@ -3,7 +3,7 @@
   "displayName": "Terra Theme (Alpha)",
   "publisher": "NikolausBrunner",
   "description": "",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.68.0"
   },
