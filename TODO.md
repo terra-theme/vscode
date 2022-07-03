@@ -3,7 +3,7 @@
 ## Themes
 
 - [ ] Spring
-  - [ ] Night (In Progress)
+  - [ ] Night (WIP)
   - [ ] Day
 - [ ] Summer
   - [ ] Night
@@ -15,16 +15,26 @@
   - [ ] Night
   - [ ] Day
 
-## Infrastructure
+## Logic
 
 - [ ] Create `json` files dynamically
+  - Research other themes
 
 ## Repository
 
-- [ ] `README.md`
-- [ ] `COLORS.md`
-- [ ] `TODO.md`
+- [x] Publish on Marketplace
 - [ ] Repository Icon
+
+## Documentation
+
+### `README.md`
+
+- [ ] Screenshots
+
+### `LICENCSE.md`
+
+- [ ] Research
+- [ ] Validate choice
 
 ## Bugs
 

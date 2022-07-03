@@ -36,3 +36,11 @@ I am starting with the spring theme to gather experience, than will work on the 
 - [VSC: Language Extensions - Semantic Highlight Guide](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide)
 - [VSC: Theme Color](https://code.visualstudio.com/api/references/theme-color)
 - [VSC: Extension Guides - Color Theme](https://code.visualstudio.com/api/extension-guides/color-theme)
+
+## Credits and Inspiration
+
+- [dracula/visual-studio-code](https://github.com/dracula/visual-studio-code)
+
+## TODO
+
+[TODO](./TODO.md)
