@@ -19,6 +19,7 @@
 
 - [ ] Create `json` files dynamically
   - Research other themes
+- [ ] `semanticTokenColors`
 
 ## Repository
 
