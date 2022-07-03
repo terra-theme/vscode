@@ -25,3 +25,7 @@
 - [ ] `COLORS.md`
 - [ ] `TODO.md`
 - [ ] Repository Icon
+
+## Bugs
+
+- [ ] Terminal Cursor non visible
